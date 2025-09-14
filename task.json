@@ -1,0 +1,14 @@
+[
+    {
+        "ad": "刷广告视频赚收益",
+        "but": "领福利",
+        "sort": 1,
+        "fun": "task_ad_look_video"
+    },
+    {
+        "ad": "看视频赚收益",
+        "but": "去观看",
+        "sort": 2,
+        "fun": "task_look_video"
+    }
+]
